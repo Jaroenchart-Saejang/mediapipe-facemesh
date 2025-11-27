@@ -1,7 +1,7 @@
 # MediaPipe FaceMesh
 
 A real-time face detection and capture application built with React, MediaPipe, and Vite. This application captures face images from multiple angles (front, right, left) with real-time pose detection and validation.
-
+<img src="/image.png" width="800">
 ## Features
 
 - **Real-time Face Detection**: Uses Google's MediaPipe FaceMesh for accurate face landmark detection
